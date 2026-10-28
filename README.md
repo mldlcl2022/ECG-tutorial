@@ -44,8 +44,5 @@ Should you have any questions or concerns, please feel free to contact me at the
 </br>
 
 # Acknowledgements
-Thank you for our [Lab](https://www.k-medai.com/home).  
+Thank you for our [Lab](https://www.k-medai.com/).
 If you find this code useful, please consider citing our work.
-
-
-1111
